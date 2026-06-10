@@ -51,6 +51,7 @@
 
                 <div class="bloque-casuistica">
                     <p id="texto-casuistica" style="color: #333;">Cargando pregunta...</p>
+                    <img id="img-pregunta" src="" alt="Imagen de la pregunta" style="display:none; max-width: 100%; margin: 15px 0; border-radius: 8px;">
                     <div id="etiqueta-origen" class="tag-origen"></div>
                 </div>
 
@@ -68,6 +69,11 @@
                     <button id="btn-siguiente" class="btn-principal">Siguiente Pregunta ➡️</button>
                 </div>
             </div>
+        </div>
+
+        <div id="modal-imagen" class="modal">
+            <span class="cerrar-modal">&times;</span>
+            <img class="contenido-modal" id="imagen-ampliada">
         </div>
 
     </main>

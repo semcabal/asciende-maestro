@@ -1,156 +1,443 @@
 [
-    {
-        "id": 5,
-        "nivel": "Inicial",
-        "area": "Lectoescritura",
-        "origen": "Examen Ascenso 2021 (Pregunta 5)",
-        "casuistica": "Lisbeth, de cinco años, llega al aula con la lista que escribió para ir a comprar a la panadería. Al ver a la docente, se la muestra. Cuando la docente le pregunta qué escribió en la lista, la niña contesta: 'Pan, mantequilla y mermelada'[cite: 82, 83]. A continuación, se presenta el escrito de la niña (trazos continuos ondulados sin correspondencia alfabética)[cite: 84, 85]. Considerando los niveles de apropiación del sistema de escritura propuestos por Emilia Ferreiro y Ana Teberosky, ¿en qué nivel se encuentra Lisbeth? [cite: 86]",
-        "opciones": [
-            "A) Presilábico. [cite: 88]",
-            "B) Silábico. [cite: 89]",
-            "C) Silábico alfabético. [cite: 90]"
-        ],
-        "correcta": 0,
-        "explicacion": "La respuesta correcta es la A. En el nivel presilábico, los niños producen trazos continuos (como líneas onduladas o garabatos) para representar la escritura, sin establecer aún una relación sonora entre la palabra oral y las letras."
-    },
-    {
-        "id": 6,
-        "nivel": "Inicial",
-        "area": "Lectoescritura",
-        "origen": "Examen Ascenso 2021 (Pregunta 6)",
-        "casuistica": "Los niños de cinco años están organizando una pollería en el aula, y han decidido que esta se llamará 'Pollito rico'[cite: 93]. Ahora, le piden a la docente que les ayude a escribir un cartel con el nombre de la pollería[cite: 94]. En esta situación, ¿cuál de las siguientes acciones es pertinente que realice la docente para favorecer la apropiación del sistema de escritura en los niños? [cite: 95]",
-        "opciones": [
-            "A) Repartir a los niños revistas y pedirles que recorten las letras que deseen. Luego, escribir el nombre de la pollería en la pizarra y pedirles que se guíen de ese escrito para armar su cartel... [cite: 96, 97]",
-            "B) Pedir a los niños que busquen en los carteles y otros escritos en el aula palabras que empiecen como el nombre de la pollería y otras palabras que creen que les servirán. Finalmente, escribir el cartel junto con los niños. [cite: 98, 99]",
-            "C) Mostrar a los niños un abecedario. Luego, pedirles que señalen en este la 'P' y la escriban. A continuación, pedirles que identifiquen la 'O' y también la escriban... [cite: 100, 101]"
-        ],
-        "correcta": 1,
-        "explicacion": "La respuesta correcta es la B. El enfoque constructivista promueve que los niños utilicen referentes escritos de su entorno (letrados) para formular hipótesis sobre cómo se escribe una palabra nueva, dándole un uso social y real a la escritura."
-    },
-    {
-        "id": 7,
-        "nivel": "Inicial",
-        "area": "Comunicación Oral",
-        "origen": "Examen Ascenso 2021 (Pregunta 7)",
-        "casuistica": "Mariano y César, de cuatro años, están construyendo una maqueta. De pronto, se les acaba la goma[cite: 103]. Entonces, levantando la voz, llaman a la docente: '¡Señoiiiita! ¡Empréstanos tu goma!'[cite: 104, 106]. La docente, que se encuentra en el otro extremo del aula, se acerca[cite: 107]. En esa situación, ¿qué intervención es pertinente para favorecer el desarrollo de la expresión oral de los niños? [cite: 108]",
-        "opciones": [
-            "A) 'Mariano, César, así no los puedo entender. Pidan lo que necesiten, pero sin gritar'. [cite: 109]",
-            "B) 'A ver, Mariano, repite conmigo: 'Se-ño-ri-ta'. Ahora tú, César: 'Prés-ta-nos'. [cite: 110]",
-            "C) 'Mariano y César, les presto la goma, cuéntenme, ¿para qué la necesitan?'. [cite: 112]"
-        ],
-        "correcta": 2,
-        "explicacion": "La respuesta correcta es la C. Para favorecer la expresión oral, se debe fomentar el diálogo a partir de los intereses y situaciones reales de los niños, expandiendo la conversación (¿para qué la necesitan?) en lugar de centrarse únicamente en la corrección fonética o conductual."
-    },
-    {
-        "id": 8,
-        "nivel": "Inicial",
-        "area": "Comprensión Lectora",
-        "origen": "Examen Ascenso 2021 (Pregunta 8)",
-        "casuistica": "La docente y los niños de cuatro años leen el cuento 'Paco viaja a la Luna'[cite: 115, 116]. ¿Cuál de las siguientes preguntas es pertinente para que los niños identifiquen información explícita en este cuento? [cite: 139]",
-        "opciones": [
-            "A) ¿Qué querrá decir 'alunizar'? [cite: 140]",
-            "B) ¿Quién le contó a Paco que la Luna era de queso? [cite: 141]",
-            "C) ¿A ustedes también les gustaría viajar a la Luna? ¿Por qué? [cite: 142]"
-        ],
-        "correcta": 1,
-        "explicacion": "La respuesta correcta es la B. La información explícita se encuentra literalmente en el texto (fue su amigo Ramón quien se lo dijo)[cite: 118]. Las otras opciones corresponden a vocabulario/inferencia y a reflexión personal."
-    },
-    {
-        "id": 9,
-        "nivel": "Inicial",
-        "area": "Comprensión Lectora",
-        "origen": "Examen Ascenso 2021 (Pregunta 9)",
-        "casuistica": "Respecto al mismo cuento 'Paco viaja a la Luna'[cite: 116]. ¿Cuál de las siguientes preguntas es pertinente para que los niños realicen inferencias sobre este cuento? [cite: 145]",
-        "opciones": [
-            "A) ¿Qué te parece la decisión de Paco de viajar a la Luna? [cite: 146]",
-            "B) ¿Qué hizo la Luna para calmar la tristeza de Paco? [cite: 147]",
-            "C) ¿De qué estará hecha la Luna? [cite: 148]"
-        ],
-        "correcta": 2,
-        "explicacion": "La respuesta correcta es la C. Realizar inferencias implica deducir información que no está escrita directamente. Como el texto indica que Paco descubrió que la Luna no era de queso[cite: 125], los niños deben inferir o formular hipótesis sobre de qué material está compuesta realmente."
-    },
-    {
-        "id": 10,
-        "nivel": "Inicial",
-        "area": "Comprensión Lectora",
-        "origen": "Examen Ascenso 2021 (Pregunta 10)",
-        "casuistica": "Finalmente, sobre el cuento 'Paco viaja a la Luna'[cite: 116]. ¿Cuál de las siguientes preguntas es pertinente para que los niños reflexionen sobre el contenido de este cuento? [cite: 151]",
-        "opciones": [
-            "A) ¿Por qué Paco sonrió mientras dormía? [cite: 152]",
-            "B) ¿De qué hablaban las canciones que la Luna le cantó a Paco? [cite: 153]",
-            "C) ¿Crees que valió la pena todo el esfuerzo que hizo Paco para ir a la Luna? [cite: 154]"
-        ],
-        "correcta": 2,
-        "explicacion": "La respuesta correcta es la C. El nivel crítico o de reflexión exige que el niño asuma una postura y emita un juicio de valor sobre las acciones de los personajes o la situación de la historia."
-    },  
-{
-        "id": 11,
-        "nivel": "Inicial",
-        "area": "Función Simbólica",
-        "origen": "Examen Ascenso 2021 (Pregunta 11)",
-        "casuistica": "Respecto a los niveles de representación de la función simbólica, ¿en cuál de las siguientes situaciones la acción de la niña evidencia el nivel objeto?",
-        "opciones": [
-            "A) María observa por primera vez la fruta llamada 'pitahaya'; la coge, la huele y la prueba.",
-            "B) Josefina modela con plastilina los animales que conoció durante su visita a la granja.",
-            "C) Lily reconoce por la voz a sus compañeros cuando juegan a la 'Gallinita ciega'."
-        ],
-        "correcta": 0,
-        "explicacion": "La respuesta es la A. En el nivel de objeto, la representación y el conocimiento se dan a través de la exploración sensoriomotriz directa con el objeto real (oler, tocar, probar). Las otras opciones representan niveles de indicio o símbolo."
-    },
-    {
-        "id": 12,
-        "nivel": "Inicial",
-        "area": "Expresión Gráfico Plástica",
-        "origen": "Examen Ascenso 2021 (Pregunta 12)",
-        "casuistica": "Los niños del aula de cinco años van a elaborar, por grupos, carteles para los sectores del salón. Para ello, se han agrupado según su sector favorito. El docente busca aprovechar esta situación para promover la expresión de los niños mediante el uso del lenguaje gráfico plástico. ¿Cuál de las siguientes acciones es pertinente para ese propósito?",
-        "opciones": [
-            "A) Entregar a cada grupo una imagen grande de niños jugando en el sector elegido. Luego, distribuirles témperas, crayolas... para que coloreen la imagen.",
-            "B) Pedir a cada grupo que comparta las experiencias agradables que hayan tenido en el sector elegido. Luego, pedirles que busquen en el aula materiales con los que puedan representar esas experiencias en el cartel.",
-            "C) Decir a los niños que observen el sector que han elegido. Luego, preguntarles qué muebles conforman el sector... y pedirles que representen en el cartel como están dispuestos."
-        ],
-        "correcta": 1,
-        "explicacion": "La respuesta es la B. La expresión gráfico plástica genuina en el nivel inicial parte de la evocación de experiencias significativas (compartir experiencias agradables) y la libre elección de materiales para representar sus vivencias, no de colorear plantillas ni hacer inventarios."
-    },
-    {
-        "id": 13,
-        "nivel": "Inicial",
-        "area": "Lectoescritura",
-        "origen": "Examen Ascenso 2021 (Pregunta 13)",
-        "casuistica": "Los niños... se están registrando en el cartel de responsabilidades usando tarjetas con sus nombres. En el aula están matriculados Manuel y Manuela, y, cuando le toca registrarse a Manuel, este coge la tarjeta de Manuela y rápidamente la coloca en el cartel. Al percatarse, la docente interviene. ¿Qué acción es más pertinente que realice la docente para continuar favoreciendo la apropiación del sistema de escritura en Manuel?",
-        "opciones": [
-            "A) Pedir a Manuel que le muestre la tarjeta... y preguntarle por qué piensa que es su tarjeta, cómo termina su nombre y cómo termina el nombre escrito en la tarjeta que eligió. Luego, comparar las dos tarjetas con los nombres 'MANUEL' y 'MANUELA'...",
-            "B) Indicar a Manuel que la tarjeta que colocó en el cartel dice 'MANUELA' y no 'MANUEL', y entregarle la tarjeta con su nombre. Luego, decirle que la observe para que recuerde su nombre...",
-            "C) Presentar a Manuel una hoja de papel donde estén escritos 'M_NUEL' y 'M_NUEL_'. Luego, explicarle que allí están escritos los nombres Manuel y Manuela, pero incompletos..."
-        ],
-        "correcta": 0,
-        "explicacion": "La respuesta es la A. Ante un 'error', el enfoque constructivista demanda generar un conflicto cognitivo. Al pedirle que compare ambas tarjetas y analice los finales de los nombres, el niño reflexiona sobre el sistema de escritura por sí mismo."
-    },
-    {
-        "id": 14,
-        "nivel": "Inicial",
-        "area": "Comprensión Lectora",
-        "origen": "Examen Ascenso 2021 (Pregunta 14)",
-        "casuistica": "La docente del aula de cinco años ha colocado recientemente un libro de poesía en la biblioteca. Hoy dos niños han cogido ese libro... y le han pedido a la docente que se los lea. Al notar los otros niños esto, varios se acercan a escuchar... ¿Cuál de las siguientes acciones es más pertinente para seguir acercando a los niños a este tipo de texto?",
-        "opciones": [
-            "A) Leer el poema mientras todos escuchan con atención. Luego, invitarlos a compartir sus comentarios sobre lo que sintieron al escuchar el poema. Finalmente, pedirles que digan cómo se imaginan a la semillita, a la lluvia y al sol.",
-            "B) Explicar a los niños que los poemas suelen tener palabras que suenan parecido. Luego, leerles el poema enfatizando palabras como 'alumbró'... Finalmente, preguntarles qué palabras parecidas identificaron.",
-            "C) Leerles el poema acompañando la lectura con movimientos corporales. Luego... practicar con ellos cada verso hasta que logren recitar todo el poema por sí solos."
-        ],
-        "correcta": 0,
-        "explicacion": "La respuesta es la A. El propósito principal de acercar a los niños a textos poéticos en esta edad es el disfrute (goce estético) y la expresión de emociones e imaginación, no el análisis fonológico estricto ni la memorización mecánica."
-    },
-    {
-        "id": 15,
-        "nivel": "Inicial",
-        "area": "Lectoescritura",
-        "origen": "Examen Ascenso 2021 (Pregunta 15)",
-        "casuistica": "La docente y los niños del aula de cinco años acaban de leer el cuento 'El gato y la mariposa'. Ahora, la docente les pide que dibujen lo que más les gustó. Naomi dibuja un gato y una mariposa, y escribe debajo de cada personaje. Cuando la docente le pregunta qué escribió, la niña afirma haber escrito 'gato' debajo de su primer dibujo y 'mariposa' debajo del segundo. La niña escribió 'gato' usando muchas letras y 'mariposa' usando solo tres letras. Considerando las propuestas de Emilia Ferreiro y Ana Teberosky, ¿qué hipótesis de escritura explica por qué Naomi escribe la palabra 'gato' con más grafías que la palabra 'mariposa'?",
-        "opciones": [
-            "A) Hipótesis de cantidad.",
-            "B) Hipótesis de variedad.",
-            "C) Hipótesis sobre las propiedades del objeto."
-        ],
-        "correcta": 2,
-        "explicacion": "La respuesta es la C. La 'hipótesis sobre las propiedades del objeto' (o del tamaño del referente) ocurre cuando el niño cree que las características físicas del objeto real deben reflejarse en la escritura. Como un gato real es mucho más grande que una mariposa real, asume que la palabra 'gato' necesita más letras para escribirse."
-    }
+  {
+    "id": 1,
+    "casuistica": "Pedro, de catorce meses, está concentrado explorando diversos objetos sobre el petate. En esta situación, ¿cuál de las siguientes acciones favorece que el niño continúe con su proceso de exploración?",
+    "opciones": [
+      "Sentarse junto al niño y proponerle juegos con la variedad de objetos que le rodean.",
+      "Observar qué objetos le interesan, para incluirlos en la variedad de juguetes la próxima vez.",
+      "Colocar en el petate más objetos, de colores, tamaños y formas variadas para motivarlo al juego."
+    ],
+    "correcta": 1,
+    "explicacion": "La opción B es correcta. En el ciclo I, se respeta la actividad autónoma del niño. Si está concentrado, la docente debe observar sin interrumpir su exploración, utilizando esa información para preparar el entorno futuro."
+  },
+  {
+    "id": 2,
+    "casuistica": "Cada vez que tiene hambre, Fabiola, de dieciocho meses, estira sus manos, y las abre y cierra diciendo 'ñam, ñam, ñam'. ¿Qué intervención es pertinente para favorecer la expresión oral de la niña en esa situación?",
+    "opciones": [
+      "Ah, Fabiola, como tienes hambre, en este momento te daré tus alimentos.",
+      "Fabiola, yo también tengo 'ñam, ñam, ñam'. Vamos a 'ñam, ñam, ñam' juntas.",
+      "Te escuché decir: 'hambre, hambre, hambre'. A ver, Fabiola, tú puedes decirlo: 'hambre'."
+    ],
+    "correcta": 0,
+    "explicacion": "La opción A es correcta porque la docente acoge la intención comunicativa de la niña, le da significado y modela el uso correcto del lenguaje en una situación real, sin forzar la repetición (lo cual no es pertinente para su edad)."
+  },
+  {
+    "id": 3,
+    "casuistica": "La docente y los niños de cinco años visitan la casa de Víctor, cuya familia cría animales. Durante la visita, observan distintas huellas. Señalando una, Juan dice: '¡Miren esas huellas!, ¿adivinen de qué animal es?'. ¿Qué nivel de representación de la función simbólica se evidencia en la intervención de Juan?",
+    "opciones": [
+      "Objeto.",
+      "Indicio.",
+      "Símbolo."
+    ],
+    "correcta": 1,
+    "explicacion": "La opción B es correcta. Un 'indicio' es una huella o marca física que guarda una relación de causalidad con el objeto que representa (la huella indica que el animal estuvo ahí)."
+  },
+  {
+    "id": 4,
+    "casuistica": "Los niños de cinco años quieren presentar una danza para el día de la madre. En el momento inicial de la preparación, ¿cuál de las siguientes acciones es más pertinente para favorecer la expresión corporal de los niños?",
+    "opciones": [
+      "Pedir a los niños que se sienten en diferentes lugares, y se saquen los zapatos y las medias. Luego, decirles que escuchen la música con los ojos cerrados y, cuando estén listos, bailen como gusten.",
+      "Organizar a los niños en círculo y colocarse al centro de este. Luego, enseñarles cómo realizar cada uno de los pasos de baile para que después ellos puedan ponerlos en práctica.",
+      "Trazar en el piso un circuito con círculos y flechas. Luego, recorrer con ellos el circuito indicándoles los desplazamientos que realizarán en cada segmento."
+    ],
+    "correcta": 0,
+    "explicacion": "La opción A es la correcta porque el enfoque de expresión corporal busca que el niño explore libremente sus movimientos a partir de lo que siente al escuchar la música, sin imposiciones ni modelos rígidos."
+  },
+  {
+    "id": 5,
+    "casuistica": "Los niños de cinco años están organizando una pollería en el aula, y han decidido que esta se llamará 'Pollito rico'. Ahora, le piden a la docente que les ayude a escribir un cartel. ¿Cuál de las siguientes acciones es pertinente para favorecer la apropiación del sistema de escritura?",
+    "opciones": [
+      "Repartir a los niños revistas y pedirles que recorten las letras que deseen. Luego, escribir el nombre en la pizarra y pedirles que se guíen de ese escrito para armar su cartel.",
+      "Pedir a los niños que busquen en los carteles y otros escritos en el aula palabras que empiecen como el nombre de la pollería y otras que creen que les servirán. Finalmente, escribir el cartel junto con los niños.",
+      "Mostrar a los niños un abecedario. Luego, pedirles que señalen en este la 'P' y la escriban. Continuar con ese procedimiento hasta que escriban el nombre."
+    ],
+    "correcta": 1,
+    "explicacion": "La opción B es correcta. El enfoque constructivista promueve el uso del entorno letrado (carteles del aula) para que los niños formulen hipótesis sobre cómo se escriben nuevas palabras, dándole un uso social y real."
+  },
+  {
+    "id": 6,
+    "casuistica": "Lisbeth, de cinco años, llega al aula con la lista que escribió para ir a la panadería. Al preguntarle la docente, la niña dice: 'Pan, mantequilla y mermelada'. A continuación se presenta el escrito de la niña (trazos continuos ondulados). ¿En qué nivel de apropiación del sistema de escritura se encuentra Lisbeth?",
+    "imagen": "imgs/lisbeth-escrito.png",
+    "opciones": [
+      "Presilábico.",
+      "Silábico.",
+      "Silábico alfabético."
+    ],
+    "correcta": 0,
+    "explicacion": "La opción A es correcta. Lisbeth se encuentra en el nivel presilábico (escritura indiferenciada o grafismos continuos), ya que aún no hay correspondencia sonora entre lo que escribe y lo que lee."
+  },
+  {
+    "id": 7,
+    "casuistica": "Mariano y César, de cuatro años, están construyendo una maqueta. Se les acaba la goma y, levantando la voz desde el otro extremo del aula, llaman a la docente: '¡Señoiiiita! ¡Empréstanos tu goma!'. ¿Qué intervención es pertinente para favorecer el desarrollo de la expresión oral?",
+    "opciones": [
+      "Mariano, César, así no los puedo entender. Pidan lo que necesiten, pero sin gritar.",
+      "A ver, Mariano, repite conmigo: 'Se-ño-ri-ta'. Ahora tú, César: 'Prés-ta-nos'.",
+      "Mariano y César, les presto la goma, cuéntenme, ¿para qué la necesitan?"
+    ],
+    "correcta": 2,
+    "explicacion": "La opción C es correcta. El enfoque comunicativo prioriza el propósito del mensaje sobre la corrección gramatical. La docente atiende la necesidad comunicativa y fomenta que sigan expresándose al hacerles una pregunta."
+  },
+  {
+    "id": 8,
+    "casuistica": "Lea el cuento 'Paco viaja a la Luna' presentado en la imagen. ¿Cuál de las siguientes preguntas es pertinente para que los niños identifiquen información explícita en este cuento?",
+    "imagen": "imgs/paco-luna.png",
+    "opciones": [
+      "¿Qué querrá decir 'alunizar'?",
+      "¿Quién le contó a Paco que la Luna era de queso?",
+      "¿A ustedes también les gustaría viajar a la Luna? ¿Por qué?"
+    ],
+    "correcta": 1,
+    "explicacion": "La opción B es correcta. El nivel de comprensión literal (información explícita) requiere ubicar datos que están directamente escritos en el texto (El cuento menciona explícitamente que fue su amigo Ramón)."
+  },
+  {
+    "id": 9,
+    "casuistica": "A partir del cuento 'Paco viaja a la Luna', ¿cuál de las siguientes preguntas es pertinente para que los niños realicen inferencias sobre este cuento?",
+    "imagen": "imgs/paco-luna.png", 
+    "opciones": [
+      "¿Qué te parece la decisión de Paco de viajar a la Luna?",
+      "¿Qué hizo la Luna para calmar la tristeza de Paco?",
+      "¿De qué estará hecha la Luna?"
+    ],
+    "correcta": 2,
+    "explicacion": "La opción C es correcta. Las inferencias exigen deducir información que no está escrita..."
+  },
+  {
+    "id": 10,
+    "casuistica": "Siguiendo con el cuento 'Paco viaja a la Luna', ¿cuál de las siguientes preguntas es pertinente para que los niños reflexionen sobre el contenido (Nivel crítico-valorativo)?",
+    "imagen": "imgs/paco-luna.png",
+    "opciones": [
+      "¿Por qué Paco sonrió mientras dormía?",
+      "¿De qué hablaban las canciones que la Luna le cantó a Paco?",
+      "¿Crees que valió la pena todo el esfuerzo que hizo Paco para ir a la Luna?"
+    ],
+    "correcta": 2,
+    "explicacion": "La opción C es correcta. El nivel crítico-valorativo o de reflexión pide al estudiante..."
+  },
+  {
+    "id": 11,
+    "casuistica": "La docente muestra el poema 'La semillita que despertó' (ver imagen). ¿Cuál de las siguientes acciones es MÁS pertinente para seguir acercando a los niños a este tipo de texto?",
+    "imagen": "imgs/poema-semillita.png",
+    "opciones": [
+      "Leer el poema mientras todos escuchan. Luego, invitarlos a compartir sobre lo que sintieron al escuchar el poema y cómo se imaginan a la semillita.",
+      "Explicar que los poemas tienen palabras que suenan parecido. Luego, leer enfatizando palabras como 'alumbró' o 'calentó' y preguntarles qué palabras se parecen.",
+      "Leerles acompañando con movimientos corporales. Luego, practicar cada verso hasta que logren recitar todo el poema por sí solos."
+    ],
+    "correcta": 0,
+    "explicacion": "La opción A es correcta. En Educación Inicial, el acercamiento a textos literarios como la poesía busca principalmente el disfrute estético, la imaginación y la expresión de emociones, más que el análisis fonológico o la memorización mecanicista."
+  },
+  {
+    "id": 12,
+    "casuistica": "Naomi dibuja un gato y una mariposa, y escribe debajo de cada uno. En la palabra 'gato' usa muchas letras y en 'mariposa' usa solo tres (ver imagen). Considerando a Ferreiro y Teberosky, ¿qué hipótesis explica por qué escribe 'gato' con más grafías que 'mariposa'?",
+    "imagen": "imgs/naomi-gato.png",
+    "opciones": [
+      "Hipótesis de cantidad.",
+      "Hipótesis de variedad.",
+      "Hipótesis sobre las propiedades del objeto."
+    ],
+    "correcta": 2,
+    "explicacion": "La opción C es correcta. En la 'hipótesis sobre las propiedades del objeto', los niños creen que la escritura debe reflejar las características físicas del referente (como un gato es más grande que una mariposa en la vida real, creen que su nombre lleva más letras)."
+  },
+  {
+    "id": 13,
+    "casuistica": "Respecto a los niveles de representación de la función simbólica, ¿en cuál de las siguientes situaciones la acción de la niña evidencia el nivel objeto?",
+    "opciones": [
+      "María observa por primera vez la fruta llamada 'pitahaya'; la coge, la huele y la prueba.",
+      "Josefina modela con plastilina los animales que conoció durante su visita a la granja.",
+      "Lily reconoce por la voz a sus compañeros cuando juegan a la 'Gallinita ciega'."
+    ],
+    "correcta": 0,
+    "explicacion": "La opción A se acerca a la interacción directa con el objeto real. (Nota técnica: Josefina está en el nivel Símbolo y Lily en el nivel Indicio)."
+  },
+  {
+    "id": 14,
+    "casuistica": "Los niños van a elaborar carteles para los sectores del salón. El docente busca aprovechar la situación para promover la expresión mediante el lenguaje gráfico plástico. ¿Qué acción es pertinente?",
+    "opciones": [
+      "Entregar a cada grupo una imagen grande de niños jugando en el sector elegido y pedirles que la coloreen.",
+      "Pedir a cada grupo que comparta experiencias agradables en el sector. Luego, buscar materiales en el aula para representar esas experiencias en el cartel.",
+      "Preguntarles qué muebles conforman el sector y cómo están organizados, y pedirles que representen en el cartel cómo están dispuestos."
+    ],
+    "correcta": 1,
+    "explicacion": "La opción B es correcta porque promueve la verdadera expresión gráfico-plástica libre y creativa a partir de sus propias vivencias, evitando el uso de plantillas para colorear (que limitan la creatividad)."
+  },
+  {
+    "id": 15,
+    "casuistica": "Manuel coge la tarjeta de 'Manuela' creyendo que es la suya. ¿Qué acción es más pertinente para favorecer la apropiación del sistema de escritura en Manuel?",
+    "opciones": [
+      "Pedir a Manuel que muestre la tarjeta, comparar 'MANUEL' y 'MANUELA', preguntarle en qué cree que se diferencian y pedirle que señale dónde dice Manuel.",
+      "Indicar a Manuel que dice 'MANUELA', entregarle la suya y hacerlo escribir repetidas veces sin mirar.",
+      "Presentar una hoja con 'M_NUEL' y 'M_NUEL_' para que complete colocando la letra 'A'."
+    ],
+    "correcta": 0,
+    "explicacion": "La opción A es correcta. Promueve el conflicto cognitivo y la discriminación visual comparando las escrituras, lo que ayuda al niño a reflexionar sobre el sistema de escritura de manera constructivista."
+  },
+
+  
+  {
+    "casuistica": "Carlos, de cinco años, está viendo la portada de un cuento que presenta la imagen de un perro de color negro acompañada del título 'El perrito negro'. Cuando la docente le pregunta qué está leyendo, el niño responde 'PE-RRI-TO', recorriendo con su dedo cada una de las palabras del título. ¿Qué acción es pertinente para continuar favoreciendo la apropiación del sistema de escritura?",
+    "opciones": [
+      "Escribir en un papel las palabras del título de manera dispersa y pedirle que encierre donde dice 'perrito'.",
+      "Decirle: 'Sí, Carlos, dice perrito. Pero falta decir el color. ¿De qué color es? Entonces, aquí dice El perrito negro'.",
+      "Preguntarle: '¿Cómo te diste cuenta de que allí dice perrito?'. Luego de escuchar su respuesta, leerle el título."
+    ],
+    "correcta": 2,
+    "explicacion": "Hacer reflexionar al niño sobre sus índices de lectura (qué lo llevó a pensar que ahí dice perrito) le ayuda a avanzar en sus propias hipótesis de lectura y escritura."
+  },
+  {
+    "casuistica": "Ela, de once meses, está jugando con una pelota. Durante el juego, busca la mirada de la docente, ríe y balbucea. ¿Cuál de las siguientes intervenciones favorece que la niña continúe progresando en su expresión oral?",
+    "opciones": [
+      "“Ela, veo que te estás divirtiendo mucho con la pelota. ¡Mira como rueda!”.",
+      "“Ela, muy bien, quieres hablar. Pronto vamos a entender lo que estás diciendo”.",
+      "“Ela, mira qué bonita ‘pelooota’. Ese juguete se llama ‘pelooota’. A ver, dame la ‘pelooota’”."
+    ],
+    "correcta": 0,
+    "explicacion": "El adulto acompaña y devuelve significado al balbuceo de la niña dentro de una situación real de juego, fomentando lo que se conoce como protoconversación."
+  },
+  {
+    "casuistica": "Los niños del aula de cuatro años han elaborado barquitos de papel y juegan a hacerlos flotar, pero notan que se hunden. Javier comenta: 'Todos los barquitos se nos hunden muy rápido'. Lorena responde: 'El papel no sirve, hay que hacerlos de otra cosa'. Deciden buscar nuevos materiales. ¿Qué alternativa es más pertinente para favorecer la iniciación a la indagación científica?",
+    "opciones": [
+      "Preguntar a los niños qué materiales podrían emplear. Luego, pedirles que busquen esos materiales en el aula, prueben qué ocurre en el agua, y elaboren sus barquitos con los que no se hunden.",
+      "Explicar a los niños que las botellas de plástico vacías no se hunden. Elaborar un barquito con ellos para comprobarlo y decirles que usen ese material.",
+      "Colocar en una tina varios objetos diversos. Pedirles que observen qué sucede y sugerirles que usen los materiales que no se hundieron."
+    ],
+    "correcta": 0,
+    "explicacion": "Se fomenta que los propios niños planteen sus hipótesis sobre los materiales, experimenten directamente y lleguen a sus propias conclusiones."
+  },
+  {
+    "casuistica": "Es lunes y dos niños han traído dos macetas con suculentas. Al no ponerse de acuerdo sobre cada cuánto regarlas, la docente propone formar dos grupos: uno regará una planta cinco días seguidos y el otro grupo regará la otra solo una vez a la semana. Quedan en reunirse el viernes. ¿Cuál es pertinente para favorecer la indagación?",
+    "opciones": [
+      "Pedir a los niños que todos los días observen las características de la suculenta a su cargo y las registren con dibujos. Al término de la semana comparar observaciones.",
+      "Al término de la semana, describirles las características de una suculenta sana y preguntarles cuál planta se ve así, para luego dictarles la frecuencia de riego correcta.",
+      "Reunir a los niños al final de la semana y explicarles por qué las suculentas no requieren demasiado riego para crecer."
+    ],
+    "correcta": 0,
+    "explicacion": "La indagación científica en Inicial requiere observación sistemática, registro de datos (dibujos) y comparación grupal para contrastar resultados empíricamente."
+  },
+  {
+    "casuistica": "A la docente de cinco años se le ha caído su DNI. Patricia lo recoge y dice: 'Sí, tengo mi DNI, pero es de color amarillo. Hay un 2, un 1 y otros numeritos'. ¿Qué uso del número se evidencia en la intervención de la niña?",
+    "opciones": [
+      "Como ordinal.",
+      "Como cardinal.",
+      "Como nominal."
+    ],
+    "correcta": 2,
+    "explicacion": "El uso nominal se da cuando el número funciona como una etiqueta o identificador (DNI, placas, teléfono) sin indicar cantidad ni posición."
+  },
+  {
+    "casuistica": "Durante el refrigerio, Julio cuenta sus uvas: '1, 2, 3, 4 y 5'. La docente le pregunta: '¿Cuántas uvas trajiste?'. El niño vuelve a contar: '1, 2, 3, 4 y 5'. La docente replica: '¿Y dónde hay 5?'. Entonces, Julio señala la última uva que contó. ¿Qué principio de conteo se evidencia que SÍ posee Julio?",
+    "opciones": [
+      "Abstracción.",
+      "Cardinalidad.",
+      "Orden estable."
+    ],
+    "correcta": 2,
+    "explicacion": "Julio recita la secuencia en el orden correcto (orden estable). Sin embargo, al señalar solo la última uva como 'el 5', demuestra que aún NO ha logrado la cardinalidad (entender que el último número representa al total del grupo)."
+  },
+  {
+    "casuistica": "Mariano y César están construyendo una maqueta. De pronto, se les acaba la goma. Levantando la voz, llaman a la docente (que está al otro extremo): '¡Señoiiiita! ¡Empréstanos tu goma!'. ¿Qué intervención es pertinente para favorecer el desarrollo de la expresión oral?",
+    "opciones": [
+      "“Mariano, César, así no los puedo entender. Pidan lo que necesiten, pero sin gritar”.",
+      "“A ver, Mariano, repite conmigo: ‘Se-ño-ri-ta’. Ahora tú, César: ‘Prés-ta-nos’”.",
+      "“Mariano y César, les presto la goma, cuéntenme, ¿para qué la necesitan?”."
+    ],
+    "correcta": 2,
+    "explicacion": "Acoger su intención comunicativa y abrir el diálogo con preguntas ('¿para qué la necesitan?') favorece el uso funcional y reflexivo del lenguaje en un contexto real."
+  },
+  {
+    "casuistica": "Lea el cuento 'Paco viaja a la Luna' haciendo clic en la imagen para ampliarla. ¿Cuál de las siguientes preguntas es pertinente para que los niños identifiquen información EXPLÍCITA en este cuento?",
+    "imagen": "imgs/paco-luna.png",
+    "opciones": [
+      "¿Qué querrá decir “alunizar”?",
+      "¿Quién le contó a Paco que la Luna era de queso?",
+      "¿A ustedes también les gustaría viajar a la Luna? ¿Por qué?"
+    ],
+    "correcta": 1,
+    "explicacion": "La información explícita está escrita literalmente en el texto (fue su amigo Ramón quien le dijo que era de queso)."
+  },
+  {
+    "casuistica": "De acuerdo al cuento 'Paco viaja a la Luna' de la imagen, ¿cuál de las siguientes preguntas es pertinente para que los niños realicen INFERENCIAS sobre este cuento?",
+    "imagen": "imgs/paco-luna.png",
+    "opciones": [
+      "¿Qué te parece la decisión de Paco de viajar a la Luna?",
+      "¿Qué hizo la Luna para calmar la tristeza de Paco?",
+      "¿De qué estará hecha la Luna?"
+    ],
+    "correcta": 2,
+    "explicacion": "Para responder de qué está hecha, el niño debe deducir a partir de pistas (Paco se lastimó con una piedra y se rompió los dientes), ya que el texto no dice literalmente de qué está hecha, solo que no es de queso."
+  },
+  {
+    "casuistica": "De acuerdo al cuento 'Paco viaja a la Luna', ¿cuál de las siguientes preguntas es pertinente para que los niños REFLEXIONEN sobre el contenido de este cuento?",
+    "imagen": "imgs/paco-luna.png",
+    "opciones": [
+      "¿Por qué Paco sonrió mientras dormía?",
+      "¿De qué hablaban las canciones que la Luna le cantó a Paco?",
+      "¿Crees que valió la pena todo el esfuerzo que hizo Paco para ir a la Luna?"
+    ],
+    "correcta": 2,
+    "explicacion": "Preguntar si 'valió la pena' invita al niño a emitir un juicio de valor personal y crítico, ubicándose en el nivel crítico-reflexivo de la lectura."
+  },
+  {
+    "casuistica": "La docente les pide a los niños ponerse cómodos y les lee el poema 'La semillita que despertó'. ¿Cuál de las siguientes acciones es más pertinente para seguir acercando a los niños a este tipo de texto?",
+    "imagen": "imgs/poema_semillita.png",
+    "opciones": [
+      "Leer el poema mientras todos escuchan. Luego, invitarlos a compartir qué sintieron al escuchar el poema y cómo se imaginan a la semillita.",
+      "Explicar que los poemas tienen palabras que suenan parecido y pedirles que identifiquen rimas como 'alumbró' y 'calentó'.",
+      "Leerles acompañando con movimientos corporales y practicar cada verso hasta que logren recitar el poema de memoria."
+    ],
+    "correcta": 0,
+    "explicacion": "En el nivel Inicial, el contacto con los textos poéticos debe apuntar principalmente al disfrute, la sensibilidad y el goce estético (compartir emociones), no al análisis estructural ni a la repetición memorística."
+  },
+  {
+    "casuistica": "Naomi dibuja un gato y una mariposa. Afirma haber escrito “gato” debajo del primer dibujo y “mariposa” debajo del segundo. Considerando las hipótesis de Emilia Ferreiro, ¿qué hipótesis explica por qué Naomi escribe 'gato' con MÁS grafías que la palabra 'mariposa'?",
+    "imagen": "imgs/pregunta_naomi.png",
+    "opciones": [
+      "Hipótesis de cantidad.",
+      "Hipótesis de variedad.",
+      "Hipótesis sobre las propiedades del objeto."
+    ],
+    "correcta": 2,
+    "explicacion": "La niña considera que la palabra debe ser tan grande (tener tantas letras) como el tamaño real del objeto que representa. Como el gato es más grande que una mariposa, asume que su nombre lleva más letras."
+  },
+  {
+    "casuistica": "Lea el cuento 'Un sapo de otra laguna' haciendo clic en la imagen. ¿Cuál de las siguientes preguntas es pertinente para que los niños identifiquen información EXPLÍCITA?",
+    "imagen": "imgs/cuento_sapo.jpg",
+    "opciones": [
+      "¿Qué les parece lo que les dijo Escarabajo a los sapos?",
+      "¿Qué significa la palabra “furioso”?",
+      "¿Dónde vivía la familia de sapos?"
+    ],
+    "correcta": 2,
+    "explicacion": "El texto menciona directamente y de forma literal en el primer párrafo que 'en la laguna vivía una familia de sapos'."
+  },
+  {
+    "casuistica": "Sobre el cuento 'Un sapo de otra laguna', ¿cuál de las siguientes preguntas es pertinente para que los niños realicen INFERENCIAS?",
+    "imagen": "imgs/cuento_sapo.jpg",
+    "opciones": [
+      "¿Crees que los sapos actuaron bien cuando escucharon croar a Cerdito? ¿Por qué?",
+      "¿Qué hicieron los animales cuando vieron que Cerdito cantaba como pajarito?",
+      "¿Por qué Cerdito imitaba a los animales que veía?"
+    ],
+    "correcta": 2,
+    "explicacion": "El niño debe unir pistas del texto (despertó con ganas de hacer amigos y se emocionó de ver la laguna) para deducir o inferir el motivo oculto del comportamiento del cerdito."
+  },
+  {
+    "casuistica": "Sobre el cuento 'Un sapo de otra laguna', ¿cuál de las siguientes preguntas es pertinente para que los niños REFLEXIONEN sobre el contenido?",
+    "imagen": "imgs/cuento_sapo.jpg",
+    "opciones": [
+      "¿Qué piensas de la pregunta que les hizo Escarabajo a los animales?",
+      "¿Por qué al final del cuento Escarabajo se alegró?",
+      "¿Qué dijo Tortuga al ver a Cerdito?"
+    ],
+    "correcta": 0,
+    "explicacion": "Preguntar 'qué piensas sobre algo' es requerir directamente la opinión, postura o juicio crítico del lector frente al texto."
+  },
+  {
+    "casuistica": "Los niños de cuatro años escarban la tierra y encuentran lombrices. La docente nota que los niños juegan a que las lombrices conversan, inventando diálogos entre ellas. ¿Qué acción es más pertinente para continuar favoreciendo su expresión oral?",
+    "opciones": [
+      "Seguir de cerca la conversación de los niños y participar en el juego si ellos así lo solicitan.",
+      "Pedir a los niños que inventen una historia sobre lombrices a partir de los diálogos realizados.",
+      "Enseñar a los niños expresiones y gestos que pueden usar para enriquecer sus diálogos en el juego."
+    ],
+    "correcta": 0,
+    "explicacion": "Respetar el juego libre y espontáneo, acompañando sin interrumpir ni direccionar rígidamente, es el enfoque ideal en el nivel Inicial para desarrollar el lenguaje."
+  },
+  {
+    "casuistica": "En el huerto. Martina: (Señala un capullo) ¡Mira eso! ¿Qué es? / Docente: ¿Qué podría ser? / Martina: Parece una fruta. / Docente: ¿Y a qué fruta se parece? / Martina: ¡A una pasa grande! / Docente: ¿Tú qué dices, Juan? / Juan: Yo creo que se parece a un tamarindo. ¿Qué está realizando principalmente la docente?",
+    "opciones": [
+      "Promover la metacognición sobre los procesos de aprendizaje.",
+      "Favorecer la transferencia de los aprendizajes.",
+      "Activar los saberes previos de los niños."
+    ],
+    "correcta": 2,
+    "explicacion": "A través de preguntas socráticas, la docente invita a los niños a conectar lo que observan con objetos que ya conocen y guardan en su memoria (pasa, tamarindo), activando sus saberes."
+  },
+  {
+    "casuistica": "Los niños han sembrado rabanitos y acuerdan salir a observar y regarlos regularmente. En el marco de la indagación científica, ¿cuál es la acción más pertinente para promover el registro de información?",
+    "opciones": [
+      "Preguntar a los niños sobre el riego, anotar sus respuestas en un papelógrafo y leerles las anotaciones al final de la semana.",
+      "Pedir a los niños que observen los cambios, que dibujen o escriban sobre lo observado al retornar al aula, y luego conversar a partir de sus registros.",
+      "Entregar una lista de cotejo con imágenes de las etapas de crecimiento para que marquen lo que observan."
+    ],
+    "correcta": 1,
+    "explicacion": "El registro en Ciencias debe ser elaborado de forma activa y directa por los propios niños (usando sus dibujos o grafismos) para que el aprendizaje sea significativo."
+  },
+  {
+    "casuistica": "Hay fuertes ruidos de construcción cerca de la escuela. La docente pide a los niños que dibujen qué creen que produce los ruidos (Nicolás dibuja un cohete, Silvia un gigante). Luego van a mirar a la calle y Nicolás nota que es una maquinaria. ¿Qué promueve principalmente la docente?",
+    "opciones": [
+      "Que los niños comprueben sus hipótesis.",
+      "Que los niños desarrollen su habilidad para dibujar.",
+      "Que los niños discriminen diferentes sonidos de su entorno."
+    ],
+    "correcta": 0,
+    "explicacion": "Los dibujos iniciales fueron sus explicaciones tentativas (hipótesis). Al salir y mirar la calle, la docente propicia que contrasten lo que pensaban con la realidad (comprobación)."
+  },
+  {
+    "casuistica": "Fabiola y Alfredo intentan hacer una torta de tierra, pero se desmorona. Docente: '¿Qué están utilizando?' / Alfredo: 'Tierra seca'. / Docente: '¿Qué podrían agregarle para formar masa?' / Fabiola: '¿Agua?'. Lo intentan y lo logran. Al final, la docente les pregunta: 'A ver, ¿cuéntenme cómo lo hicieron?'. ¿Qué acción realiza al final?",
+    "opciones": [
+      "Generar conflicto cognitivo.",
+      "Favorecer la transferencia de los aprendizajes.",
+      "Promover la metacognición sobre el proceso de aprendizaje."
+    ],
+    "correcta": 2,
+    "explicacion": "Pedirles que verbalicen paso a paso lo que hicieron y qué estrategias funcionaron para resolver el problema fomenta la reflexión sobre su propio proceso (metacognición)."
+  },
+  {
+    "casuistica": "Empieza a llover. Mauro: '¡Me estoy mojando!'. Leonardo: '¡Las hojitas de las plantas se están lavando!'. Sara: '¡Las nubes deben estar llenas de gotitas de agua! Como ya no pueden cargar tantas, comienza a llover'. ¿En cuál comentario se evidencia la formulación de una hipótesis?",
+    "opciones": [
+      "En el de Leonardo.",
+      "En el de Mauro.",
+      "En el de Sara."
+    ],
+    "correcta": 2,
+    "explicacion": "Sara es la única que propone una explicación o causa subyacente para intentar dar respuesta al fenómeno natural de la lluvia."
+  },
+  {
+    "casuistica": "En el mercado, María nota que una papa tiene un hueco. Docente: '¿Por qué creen que la papa tendrá ese hueco?'. Julio: 'Es la casa de un gusano'. Docente: '¿Y qué hará el gusano adentro?'. Rita: '¡Se come la papa!'. Docente: 'Ajá, ¿cómo son los hijitos de los gusanos?'. ¿Qué acción realiza principalmente la docente?",
+    "opciones": [
+      "Activar saberes previos.",
+      "Brindar retroalimentación.",
+      "Generar conflicto cognitivo."
+    ],
+    "correcta": 0,
+    "explicacion": "La docente explora y extrae mediante preguntas todo lo que los niños imaginan o saben previamente sobre los gusanos, sentando la base antes de iniciar el aprendizaje."
+  },
+  {
+    "casuistica": "¿Cuál de los siguientes niños evidencia las características más tempranas del desarrollo motor?",
+    "opciones": [
+      "Jorge estira la mano para coger una argolla de plástico y se la lleva a la boca.",
+      "Matías coge un cubo de colores. Luego, frota el cubo en el suelo y lo golpea.",
+      "Víctor descubre sus manos ante sus ojos. Luego, las acerca, las aleja, las abre y las cierra."
+    ],
+    "correcta": 2,
+    "explicacion": "El descubrimiento visual y control de las propias manos es un hito muy temprano (alrededor de los 2-3 meses), antecediendo al agarre voluntario de objetos externos."
+  },
+  {
+    "casuistica": "Carmen, de catorce meses, ha comenzado a ponerse de pie con apoyo. Cada vez que la docente quiere cambiarle el pañal, la niña intenta ponerse de pie. ¿Qué acción es pertinente para el cambio de pañal?",
+    "opciones": [
+      "Recostarla y cambiarle rápidamente antes de que logre ponerse de pie.",
+      "Anticiparle que se le cambiará el pañal y hacerlo en la postura en que se encuentre (de pie).",
+      "Esperar que la niña logre ponerse de pie y termine de jugar para luego recostarla y cambiarla."
+    ],
+    "correcta": 1,
+    "explicacion": "Desde el enfoque del respeto a la autonomía (Pikler), el momento de cuidados debe adaptarse al desarrollo motor del bebé, permitiéndole participar activamente en bipedestación si ya lo logró."
+  },
+  {
+    "casuistica": "La docente plantea: 'Si el tren tendrá 2 vagones, y cada vagón necesitará 4 ruedas, ¿cuántas ruedas en total tendrá el tren?'. En el marco del enfoque de resolución de problemas, ¿qué acción es pertinente que realice A CONTINUACIÓN?",
+    "opciones": [
+      "Pedir a los niños que dialoguen sobre cómo podrían solucionar el problema.",
+      "Pedir a los niños que expliquen con sus propias palabras lo que entendieron del problema.",
+      "Pedir a los niños que resuelvan el problema individualmente y comparen resultados."
+    ],
+    "correcta": 1,
+    "explicacion": "Según Polya, la primera fase ineludible es 'comprender el problema'. Hacer que el niño parafrasee la situación garantiza que entendió el reto antes de buscar estrategias."
+  },
+  {
+    "casuistica": "Los niños quieren construir trenes de juguete y piden que 'las ruedas giren con facilidad'. ¿Qué acción es pertinente para orientarlos en este diseño tecnológico?",
+    "opciones": [
+      "Mostrarles un modelo armado y darles las piezas necesarias para que armen el tren.",
+      "Decirles qué materiales específicos (madera y tapas) sirven para que giren y orientar el proceso.",
+      "Pedir que elaboren un dibujo del tren y sus materiales, y que expliquen cómo harán que giren para recibir sugerencias de sus compañeros."
+    ],
+    "correcta": 2,
+    "explicacion": "El enfoque de diseño tecnológico implica que el estudiante planifique (esboce), anticipe materiales, evalúe posibles soluciones y sustente sus decisiones antes de construir el prototipo."
+  }
 ]

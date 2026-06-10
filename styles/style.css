@@ -817,3 +817,42 @@ p { font-size: 1.1rem; }
     gap: 10px; /* Espacio entre botones A, B, C */
     margin-top: 20px;
 }
+
+/* Modal y fondo oscuro */
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1000; 
+    left: 0; top: 0;
+    width: 100%; height: 100%;
+    background-color: rgba(0,0,0,0.8);
+    overflow: auto; /* Permite hacer scroll si la imagen se hace muy grande */
+}
+
+/* Imagen base dentro del modal */
+.contenido-modal {
+    margin: auto; 
+    display: block;
+    max-width: 90%; 
+    max-height: 80vh; /* Se ajusta al 80% del alto de la pantalla */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    transition: transform 0.3s ease; /* Efecto suave de acercamiento */
+    cursor: zoom-in; /* El cursor cambia a una lupa con un '+' */
+}
+
+/* Clase que se activa al hacer el segundo clic */
+.contenido-modal.zoomed {
+    transform: scale(1.8); /* Puedes ajustar este número si lo quieres más grande */
+    transform-origin: top center; /* <--- ESTA ES LA CLAVE: Hace que el zoom crezca hacia abajo */
+    cursor: zoom-out;
+    max-height: none; 
+    margin-bottom: 80px; /* Para asegurar que haya espacio al final al hacer scroll */
+}
+
+.cerrar-modal {
+    position: fixed; /* Fixed para que siempre esté visible aunque hagas scroll */
+    top: 20px; right: 35px;
+    color: #fff; font-size: 40px; cursor: pointer;
+    z-index: 1001;
+}

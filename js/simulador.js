@@ -6,6 +6,40 @@ let intervaloTiempo = null;
 let opcionSeleccionada = null; // Para guardar la elección del usuario
 let respondido = false; // Control para evitar múltiples envíos
 
+// --- LÓGICA DEL MODAL DE IMÁGENES ---
+const modal = document.getElementById("modal-imagen");
+const imgAmpliada = document.getElementById("imagen-ampliada");
+const imgPregunta = document.getElementById('img-pregunta');
+const btnCerrar = document.querySelector('.cerrar-modal');
+
+// 1. Abrir el modal desde la pregunta
+imgPregunta.addEventListener('click', () => {
+    modal.style.display = "block";
+    imgAmpliada.src = imgPregunta.src;
+    imgAmpliada.classList.remove('zoomed'); // Asegurarnos de que empiece sin zoom extra
+});
+
+// 2. Hacer clic en la imagen ampliada para hacer "Extra Zoom"
+imgAmpliada.addEventListener('click', (event) => {
+    event.stopPropagation(); // Evita que el clic se confunda con el fondo oscuro
+    imgAmpliada.classList.toggle('zoomed'); // Pone o quita la clase de zoom
+});
+
+// 3. Cerrar el modal con el botón X
+btnCerrar.addEventListener('click', () => {
+    modal.style.display = "none";
+    imgAmpliada.classList.remove('zoomed');
+});
+
+// 4. Cerrar si hacen clic en el fondo oscuro
+window.addEventListener('click', (event) => {
+    if (event.target == modal) {
+        modal.style.display = "none";
+        imgAmpliada.classList.remove('zoomed');
+    }
+});
+// ------------------------------------
+
 document.addEventListener('DOMContentLoaded', () => {
     fetch('preguntas.json')
         .then(res => res.json())
@@ -93,6 +127,18 @@ function mostrarPregunta() {
     
     document.getElementById('num-pregunta-actual').textContent = preguntaActual + 1;
     document.getElementById('texto-casuistica').textContent = p.casuistica;
+    
+    // --- LÓGICA PARA MOSTRAR/OCULTAR IMAGEN ---
+    const imgElement = document.getElementById('img-pregunta');
+    // Verificamos si la pregunta actual tiene el campo "imagen"
+    if (p.imagen) {
+        imgElement.src = p.imagen; // Le asignamos la ruta de la imagen
+        imgElement.style.display = 'block'; // Hacemos que sea visible
+    } else {
+        imgElement.style.display = 'none'; // La ocultamos para que no ocupe espacio
+    }
+    // ------------------------------------------
+
     document.getElementById('opt-A').textContent = p.opciones[0];
     document.getElementById('opt-B').textContent = p.opciones[1];
     document.getElementById('opt-C').textContent = p.opciones[2];
