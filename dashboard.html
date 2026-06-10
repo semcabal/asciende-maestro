@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel de Preparación | Asciende Maestro</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+
+    <header>
+        <img src="imgs/logo.png" alt="Logo Asciende Maestro" class="logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Conócenos</a></li>
+                <li><a href="contact.html">Contáctanos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="dashboard-main">
+        <div class="bienvenida-dashboard">
+            <h1>¡Bienvenido al Simulador, Maestro!</h1>
+            <p>Configure su sesión de estudio eligiendo su especialidad y la modalidad de práctica.</p>
+        </div>
+
+        <section class="dashboard-seccion">
+            <h2>1. Seleccione su Especialidad</h2>
+            <div class="grid-opciones-nivel">
+                <label class="tarjeta-seleccionable">
+                    <input type="radio" name="nivel-magisterial" value="primaria" checked>
+                    <div class="contenido-tarjeta">
+                        <span class="icono-tarjeta">👶</span>
+                        <h3>Educación Inicial</h3>
+                        <p>Temarios pedagógicos y casuísticas específicas para el nivel inicial.</p>
+                    </div>
+                </label>
+
+                <label class="tarjeta-seleccionable">
+                    <input type="radio" name="nivel-magisterial" value="primaria">
+                    <div class="contenido-tarjeta">
+                        <span class="icono-tarjeta">✏️</span>
+                        <h3>Educación Primaria</h3>
+                        <p>Enfoques transversales, competencias y rúbricas oficiales de Primaria.</p>
+                    </div>
+                </label>
+
+                <label class="tarjeta-seleccionable">
+                    <input type="radio" name="nivel-magisterial" value="secundaria">
+                    <div class="contenido-tarjeta">
+                        <span class="icono-tarjeta">📚</span>
+                        <h3>Educación Secundaria</h3>
+                        <p>Filtrado por áreas: Comunicación, Matemática, Ciencias Sociales, etc.</p>
+                    </div>
+                </label>
+            </div>
+        </section>
+
+        <section class="dashboard-seccion">
+            <h2>2. ¿Cómo desea practicar hoy?</h2>
+            <div class="grid-opciones-modalidad">
+                
+                <label class="tarjeta-seleccionable modo-estudio">
+                    <input type="radio" name="modo-examen" value="completo" checked>
+                    <div class="contenido-tarjeta">
+                        <h3>Simulacro Completo</h3>
+                        <p>Preguntas aleatorias unificadas de exámenes reales. Evalúa Razonamiento, Comprensión y Pedagogía en bloque.</p>
+                    </div>
+                </label>
+
+                <label class="tarjeta-seleccionable modo-estudio">
+                    <input type="radio" name="modo-examen" value="temas">
+                    <div class="contenido-tarjeta">
+                        <h3>Práctica por Áreas Específicas</h3>
+                        <p>Personalice su entrenamiento enfocándose solo en Razonamiento Lógico, Comprensión Lectora o Conocimientos Pedagógicos.</p>
+                    </div>
+                </label>
+
+                <label class="tarjeta-seleccionable modo-estudio IA-destacado">
+                    <input type="radio" name="modo-examen" value="ia">
+                    <div class="contenido-tarjeta">
+                        <div class="tag-ia">NUEVO</div>
+                        <h3>Banco Generado por IA</h3>
+                        <p>Preguntas inéditas de alta complejidad predictiva estructuradas por Inteligencia Artificial y validadas por expertos.</p>
+                    </div>
+                </label>
+
+            </div>
+        </section>
+
+        <div class="contenedor-accion-dashboard">
+            <a href="simulador.html" class="btn-principal grande">Iniciar Simulador Interactivo</a>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Asciende Maestro. Todos los derechos reservados. Hecho en Perú.</p>
+    </footer>
+
+</body>
+</html>

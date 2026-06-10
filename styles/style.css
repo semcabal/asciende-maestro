@@ -453,3 +453,126 @@ footer {
         font-size: 1.2rem;
     }
 }
+
+/* ==========================================================================
+   9. PANEL DE CONFIGURACIÓN (DASHBOARD)
+   ========================================================================== */
+.dashboard-main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.bienvenida-dashboard {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.bienvenida-dashboard h1 {
+    font-size: 2.2rem;
+    color: #1a1a1a;
+    margin-bottom: 10px;
+}
+
+.dashboard-seccion {
+    margin-bottom: 50px;
+}
+
+.dashboard-seccion h2 {
+    font-size: 1.4rem;
+    color: #222222;
+    margin-bottom: 20px;
+    border-left: 4px solid #d91414;
+    padding-left: 10px;
+}
+
+/* Grids de Selección */
+.grid-opciones-nivel, .grid-opciones-modalidad {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+/* Ocultar el botón circular clásico del radio button */
+.tarjeta-seleccionable input[type="radio"] {
+    display: none;
+}
+
+/* El contenedor que simula la tarjeta */
+.tarjeta-seleccionable .contenido-tarjeta {
+    background: #ffffff;
+    border: 2px solid #e1e1e1;
+    border-radius: 12px;
+    padding: 25px;
+    cursor: pointer;
+    position: relative;
+    height: 100%;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.02);
+}
+
+.icono-tarjeta {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.contenido-tarjeta h3 {
+    font-size: 1.2rem;
+    color: #1a1a1a;
+    margin-bottom: 10px;
+}
+
+.contenido-tarjeta p {
+    font-size: 0.95rem;
+    color: #666666;
+    line-height: 1.5;
+}
+
+/* Efecto Hover */
+.tarjeta-seleccionable:hover .contenido-tarjeta {
+    border-color: #b0b0b0;
+    transform: translateY(-3px);
+}
+
+/* Estado SELECCIONADO (Cuando el radio button interno está activo) */
+.tarjeta-seleccionable input[type="radio"]:checked + .contenido-tarjeta {
+    border-color: #d91414;
+    background-color: #fff9f9;
+    box-shadow: 0 8px 20px rgba(217, 20, 20, 0.08);
+}
+
+/* Tarjeta especial de IA */
+.IA-destacado .contenido-tarjeta {
+    background: linear-gradient(to bottom, #ffffff, #fefeff);
+}
+
+.tag-ia {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: #111111;
+    color: #fff;
+    font-size: 0.75rem;
+    font-weight: bold;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+.tarjeta-seleccionable input[type="radio"]:checked + .IA-destacado .contenido-tarjeta {
+    border-color: #4a90e2;
+    background-color: #f4f8ff;
+}
+
+/* Contenedor del Botón de Acción */
+.contenedor-accion-dashboard {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.btn-principal.grande {
+    padding: 18px 40px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    box-shadow: 0 10px 25px rgba(217, 20, 20, 0.25);
+}
