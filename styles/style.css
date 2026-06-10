@@ -2,17 +2,37 @@
    1. RESETEO Y CONFIGURACIÓN GENERAL
    ========================================================================== */
 * {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
 body {
     background-color: #fcfcfc;
     color: #333333;
     line-height: 1.6;
 }
+
+/* Esto asegura que la página ocupe toda la altura */
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/* El main se expande para empujar el footer al fondo */
+main {
+    flex: 1;
+}
+
+/* El footer se queda siempre abajo */
+footer {
+    padding: 20px;
+    text-align: center;
+    background: #f8f9fa;
+    margin-top: auto; 
+}
+
 
 /* ==========================================================================
    2. HEADER & NAVEGACIÓN HORIZONTAL (Desplegada a la derecha)
@@ -575,4 +595,225 @@ footer {
     font-size: 1.2rem;
     font-weight: bold;
     box-shadow: 0 10px 25px rgba(217, 20, 20, 0.25);
+}
+
+/* Estilos para el Simulador */
+.oculto { display: none !important; }
+
+.opcion-btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    border: 2px solid #ccc;
+    background: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    transition: all 0.2s;
+}
+
+/* Este es el efecto de "marcado" que querías */
+.opcion-btn.seleccionado {
+    background-color: #000;
+    color: #fff;
+    border-color: #000;
+}
+
+.circulo-letra {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+.retro-caja {
+    margin-top: 20px;
+    padding: 15px;
+    background: #f0f0f0;
+    border-left: 5px solid #333;
+}
+
+/* Estilos Profesionales para el Simulador */
+
+/* 1. Estructura base para el Footer (Pegajoso al fondo) */
+html, body { min-height: 100vh; display: flex; flex-direction: column; margin: 0; }
+main { flex: 1; }
+
+/* 2. Contenedor del simulador */
+.simulador-container {
+    max-width: 750px;
+    margin: 40px auto;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    color: #333;
+}
+
+.contenido-examen {
+    padding: 50px; /* Aquí es donde ganas el aire */
+}
+
+/* 3. Botones de opciones (Limpios) */
+.opcion-btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 20px; /* Esto separa los botones entre sí */
+    border: 2px solid #e0e0e0;
+    border-radius: 12px;
+    background: #fff;
+    color: #333;
+    cursor: pointer;
+    font-size: 18px;
+    transition: all 0.3s;
+}
+
+.opcion-btn:hover { border-color: #333; }
+
+.opcion-btn.seleccionado {
+    background-color: #000;
+    color: #fff;
+    border-color: #000;
+}
+
+/* 4. Elementos internos */
+.circulo-letra {
+    width: 40px;
+    height: 40px;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 25px;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.retro-caja {
+    margin-top: 40px;
+    padding: 25px;
+    background: #f4f4f4;
+    border-left: 6px solid #333;
+    color: #333;
+    border-radius: 8px;
+}
+
+/* 5. Ajuste para el botón de comenzar */
+.btn-principal.grande {
+    display: block;
+    width: 100%;
+    padding: 20px;
+    margin-top: 30px;
+    background: #d91414;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Esto asegura que el botón tenga su propio espacio y no esté pegado al texto */
+#btn-comenzar {
+    display: block;
+    width: 100%;
+    margin-top: 40px; /* <--- ESTO MUEVE EL BOTÓN HACIA ABAJO */
+    padding: 20px;
+    background: #d91414;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+#btn-comenzar:hover {
+    transform: translateY(-2px);
+    background: #b00f0f;
+}
+
+/* Para que la lista de instrucciones tenga aire y no se vea amontonada */
+.instrucciones-cuerpo ul {
+    margin: 25px 0;
+    line-height: 1.8;
+}
+
+/* Contenedor padre de la barra */
+.barra-progreso-simulador {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #f0f0f0; /* Una línea para separar */
+}
+
+/* El cronómetro ahora se ve así */
+.cronometro {
+    background: #333;
+    color: #fff;
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Colores de estado para botones */
+.opcion-btn.correcta {
+    background-color: #d4edda !important;
+    border-color: #28a745 !important;
+    color: #155724 !important;
+}
+
+.opcion-btn.incorrecta {
+    background-color: #f8d7da !important;
+    border-color: #dc3545 !important;
+    color: #721c24 !important;
+}
+/* 1. Resetear y unificar fuentes */
+.caja-panel, .contenido-examen {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #444;
+}
+
+/* 2. Uniformar tamaños de texto */
+h2 { font-size: 1.8rem; margin-bottom: 10px; }
+h3 { font-size: 1.4rem; color: #2c3e50; }
+p { font-size: 1.1rem; }
+
+/* 3. Mejora de espaciado para el bloque de retroalimentación */
+#bloque-retroalimentacion {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-top: 2px solid #ddd;
+    border-radius: 8px;
+}
+
+/* 4. Separación real para el botón de "Siguiente Pregunta" */
+#btn-siguiente {
+    margin-top: 25px; /* Más margen arriba */
+    padding: 12px 25px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+/* 5. Asegurar que las opciones de respuesta no se vean dispares */
+.grupo-alternativas {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Espacio entre botones A, B, C */
+    margin-top: 20px;
 }

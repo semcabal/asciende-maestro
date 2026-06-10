@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador en Vivo | Asciende Maestro</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/simulador.css">
+</head>
+<body>
+
+    <header>
+        <img src="imgs/logo.png" alt="Logo Asciende Maestro" class="logo">
+        <span class="modo-badge">Demo Gratuita</span>
+    </header>
+
+    <main class="simulador-container">
+        
+        <div id="pantalla-instrucciones" class="caja-panel">
+            <div class="contenido-examen">
+                <div class="minedu-header">
+                    <span class="institucion">EVALUACIÓN DOCENTE</span>
+                    <h2>Concurso para el Ascenso de Escala Magisterial</h2>
+                    <p class="sub-prueba">Prueba Nacional - Nivel Inicial / Primaria</p>
+                </div>
+                
+                <div class="instrucciones-cuerpo">
+                    <h3>INSTRUCCIONES</h3>
+                    <p>Esta es una versión de demostración. En la prueba real resolverá 60 preguntas.</p>
+                    <ul>
+                        <li><strong>2da Escala:</strong> Mínimo 36 respuestas correctas.</li>
+                        <li><strong>3ra Escala:</strong> Mínimo 38 respuestas correctas.</li>
+                        <li><strong>4ta Escala:</strong> Mínimo 40 respuestas correctas.</li>
+                        <li><strong>5ta Escala:</strong> Mínimo 42 respuestas correctas.</li>
+                        <li><strong>6ta Escala:</strong> Mínimo 44 respuestas correctas.</li>
+                        <li><strong>7ma y 8va Escala:</strong> Mínimo 46 respuestas correctas.</li>
+                    </ul>
+                    <p class="nota-importante">⚠️ <strong>NO</strong> se descontará puntaje por las respuestas erradas.</p>
+                </div>
+                
+                <button id="btn-comenzar" class="btn-principal grande">Comenzar Simulacro Demo</button>
+            </div>
+        </div>
+
+        <div id="pantalla-examen" class="caja-panel oculto">
+            <div class="contenido-examen">
+                <div class="barra-progreso-simulador">
+                    <div class="progreso-texto">Pregunta <span id="num-pregunta-actual">1</span> de 20</div>
+                    <div class="cronometro">⏱️ Tiempo Restante: <span id="tiempo-reloj">60:00</span></div>
+                </div>
+
+                <div class="bloque-casuistica">
+                    <p id="texto-casuistica" style="color: #333;">Cargando pregunta...</p>
+                    <div id="etiqueta-origen" class="tag-origen"></div>
+                </div>
+
+                <div class="grupo-alternativas">
+                    <button class="opcion-btn" data-opcion="0"><span class="circulo-letra">A</span><span class="texto-opcion" id="opt-A">Opción A</span></button>
+                    <button class="opcion-btn" data-opcion="1"><span class="circulo-letra">B</span><span class="texto-opcion" id="opt-B">Opción B</span></button>
+                    <button class="opcion-btn" data-opcion="2"><span class="circulo-letra">C</span><span class="texto-opcion" id="opt-C">Opción C</span></button>
+                </div>
+
+                <button id="btn-enviar" class="btn-principal" style="width: 100%; margin-top: 15px; padding: 15px;">Enviar Respuesta</button>
+
+                <div id="bloque-retroalimentacion" class="retro-caja oculto">
+                    <h4 id="retro-resultado">¡Resultado!</h4>
+                    <p id="retro-texto">Explicación pedagógica...</p>
+                    <button id="btn-siguiente" class="btn-principal">Siguiente Pregunta ➡️</button>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Asciende Maestro. Desarrollado por cabrera-dev</p>
+    </footer>
+
+    <script src="js/simulador.js"></script>
+</body>
+</html>

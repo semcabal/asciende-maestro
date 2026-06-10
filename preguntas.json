@@ -1,0 +1,156 @@
+[
+    {
+        "id": 5,
+        "nivel": "Inicial",
+        "area": "Lectoescritura",
+        "origen": "Examen Ascenso 2021 (Pregunta 5)",
+        "casuistica": "Lisbeth, de cinco años, llega al aula con la lista que escribió para ir a comprar a la panadería. Al ver a la docente, se la muestra. Cuando la docente le pregunta qué escribió en la lista, la niña contesta: 'Pan, mantequilla y mermelada'[cite: 82, 83]. A continuación, se presenta el escrito de la niña (trazos continuos ondulados sin correspondencia alfabética)[cite: 84, 85]. Considerando los niveles de apropiación del sistema de escritura propuestos por Emilia Ferreiro y Ana Teberosky, ¿en qué nivel se encuentra Lisbeth? [cite: 86]",
+        "opciones": [
+            "A) Presilábico. [cite: 88]",
+            "B) Silábico. [cite: 89]",
+            "C) Silábico alfabético. [cite: 90]"
+        ],
+        "correcta": 0,
+        "explicacion": "La respuesta correcta es la A. En el nivel presilábico, los niños producen trazos continuos (como líneas onduladas o garabatos) para representar la escritura, sin establecer aún una relación sonora entre la palabra oral y las letras."
+    },
+    {
+        "id": 6,
+        "nivel": "Inicial",
+        "area": "Lectoescritura",
+        "origen": "Examen Ascenso 2021 (Pregunta 6)",
+        "casuistica": "Los niños de cinco años están organizando una pollería en el aula, y han decidido que esta se llamará 'Pollito rico'[cite: 93]. Ahora, le piden a la docente que les ayude a escribir un cartel con el nombre de la pollería[cite: 94]. En esta situación, ¿cuál de las siguientes acciones es pertinente que realice la docente para favorecer la apropiación del sistema de escritura en los niños? [cite: 95]",
+        "opciones": [
+            "A) Repartir a los niños revistas y pedirles que recorten las letras que deseen. Luego, escribir el nombre de la pollería en la pizarra y pedirles que se guíen de ese escrito para armar su cartel... [cite: 96, 97]",
+            "B) Pedir a los niños que busquen en los carteles y otros escritos en el aula palabras que empiecen como el nombre de la pollería y otras palabras que creen que les servirán. Finalmente, escribir el cartel junto con los niños. [cite: 98, 99]",
+            "C) Mostrar a los niños un abecedario. Luego, pedirles que señalen en este la 'P' y la escriban. A continuación, pedirles que identifiquen la 'O' y también la escriban... [cite: 100, 101]"
+        ],
+        "correcta": 1,
+        "explicacion": "La respuesta correcta es la B. El enfoque constructivista promueve que los niños utilicen referentes escritos de su entorno (letrados) para formular hipótesis sobre cómo se escribe una palabra nueva, dándole un uso social y real a la escritura."
+    },
+    {
+        "id": 7,
+        "nivel": "Inicial",
+        "area": "Comunicación Oral",
+        "origen": "Examen Ascenso 2021 (Pregunta 7)",
+        "casuistica": "Mariano y César, de cuatro años, están construyendo una maqueta. De pronto, se les acaba la goma[cite: 103]. Entonces, levantando la voz, llaman a la docente: '¡Señoiiiita! ¡Empréstanos tu goma!'[cite: 104, 106]. La docente, que se encuentra en el otro extremo del aula, se acerca[cite: 107]. En esa situación, ¿qué intervención es pertinente para favorecer el desarrollo de la expresión oral de los niños? [cite: 108]",
+        "opciones": [
+            "A) 'Mariano, César, así no los puedo entender. Pidan lo que necesiten, pero sin gritar'. [cite: 109]",
+            "B) 'A ver, Mariano, repite conmigo: 'Se-ño-ri-ta'. Ahora tú, César: 'Prés-ta-nos'. [cite: 110]",
+            "C) 'Mariano y César, les presto la goma, cuéntenme, ¿para qué la necesitan?'. [cite: 112]"
+        ],
+        "correcta": 2,
+        "explicacion": "La respuesta correcta es la C. Para favorecer la expresión oral, se debe fomentar el diálogo a partir de los intereses y situaciones reales de los niños, expandiendo la conversación (¿para qué la necesitan?) en lugar de centrarse únicamente en la corrección fonética o conductual."
+    },
+    {
+        "id": 8,
+        "nivel": "Inicial",
+        "area": "Comprensión Lectora",
+        "origen": "Examen Ascenso 2021 (Pregunta 8)",
+        "casuistica": "La docente y los niños de cuatro años leen el cuento 'Paco viaja a la Luna'[cite: 115, 116]. ¿Cuál de las siguientes preguntas es pertinente para que los niños identifiquen información explícita en este cuento? [cite: 139]",
+        "opciones": [
+            "A) ¿Qué querrá decir 'alunizar'? [cite: 140]",
+            "B) ¿Quién le contó a Paco que la Luna era de queso? [cite: 141]",
+            "C) ¿A ustedes también les gustaría viajar a la Luna? ¿Por qué? [cite: 142]"
+        ],
+        "correcta": 1,
+        "explicacion": "La respuesta correcta es la B. La información explícita se encuentra literalmente en el texto (fue su amigo Ramón quien se lo dijo)[cite: 118]. Las otras opciones corresponden a vocabulario/inferencia y a reflexión personal."
+    },
+    {
+        "id": 9,
+        "nivel": "Inicial",
+        "area": "Comprensión Lectora",
+        "origen": "Examen Ascenso 2021 (Pregunta 9)",
+        "casuistica": "Respecto al mismo cuento 'Paco viaja a la Luna'[cite: 116]. ¿Cuál de las siguientes preguntas es pertinente para que los niños realicen inferencias sobre este cuento? [cite: 145]",
+        "opciones": [
+            "A) ¿Qué te parece la decisión de Paco de viajar a la Luna? [cite: 146]",
+            "B) ¿Qué hizo la Luna para calmar la tristeza de Paco? [cite: 147]",
+            "C) ¿De qué estará hecha la Luna? [cite: 148]"
+        ],
+        "correcta": 2,
+        "explicacion": "La respuesta correcta es la C. Realizar inferencias implica deducir información que no está escrita directamente. Como el texto indica que Paco descubrió que la Luna no era de queso[cite: 125], los niños deben inferir o formular hipótesis sobre de qué material está compuesta realmente."
+    },
+    {
+        "id": 10,
+        "nivel": "Inicial",
+        "area": "Comprensión Lectora",
+        "origen": "Examen Ascenso 2021 (Pregunta 10)",
+        "casuistica": "Finalmente, sobre el cuento 'Paco viaja a la Luna'[cite: 116]. ¿Cuál de las siguientes preguntas es pertinente para que los niños reflexionen sobre el contenido de este cuento? [cite: 151]",
+        "opciones": [
+            "A) ¿Por qué Paco sonrió mientras dormía? [cite: 152]",
+            "B) ¿De qué hablaban las canciones que la Luna le cantó a Paco? [cite: 153]",
+            "C) ¿Crees que valió la pena todo el esfuerzo que hizo Paco para ir a la Luna? [cite: 154]"
+        ],
+        "correcta": 2,
+        "explicacion": "La respuesta correcta es la C. El nivel crítico o de reflexión exige que el niño asuma una postura y emita un juicio de valor sobre las acciones de los personajes o la situación de la historia."
+    },  
+{
+        "id": 11,
+        "nivel": "Inicial",
+        "area": "Función Simbólica",
+        "origen": "Examen Ascenso 2021 (Pregunta 11)",
+        "casuistica": "Respecto a los niveles de representación de la función simbólica, ¿en cuál de las siguientes situaciones la acción de la niña evidencia el nivel objeto?",
+        "opciones": [
+            "A) María observa por primera vez la fruta llamada 'pitahaya'; la coge, la huele y la prueba.",
+            "B) Josefina modela con plastilina los animales que conoció durante su visita a la granja.",
+            "C) Lily reconoce por la voz a sus compañeros cuando juegan a la 'Gallinita ciega'."
+        ],
+        "correcta": 0,
+        "explicacion": "La respuesta es la A. En el nivel de objeto, la representación y el conocimiento se dan a través de la exploración sensoriomotriz directa con el objeto real (oler, tocar, probar). Las otras opciones representan niveles de indicio o símbolo."
+    },
+    {
+        "id": 12,
+        "nivel": "Inicial",
+        "area": "Expresión Gráfico Plástica",
+        "origen": "Examen Ascenso 2021 (Pregunta 12)",
+        "casuistica": "Los niños del aula de cinco años van a elaborar, por grupos, carteles para los sectores del salón. Para ello, se han agrupado según su sector favorito. El docente busca aprovechar esta situación para promover la expresión de los niños mediante el uso del lenguaje gráfico plástico. ¿Cuál de las siguientes acciones es pertinente para ese propósito?",
+        "opciones": [
+            "A) Entregar a cada grupo una imagen grande de niños jugando en el sector elegido. Luego, distribuirles témperas, crayolas... para que coloreen la imagen.",
+            "B) Pedir a cada grupo que comparta las experiencias agradables que hayan tenido en el sector elegido. Luego, pedirles que busquen en el aula materiales con los que puedan representar esas experiencias en el cartel.",
+            "C) Decir a los niños que observen el sector que han elegido. Luego, preguntarles qué muebles conforman el sector... y pedirles que representen en el cartel como están dispuestos."
+        ],
+        "correcta": 1,
+        "explicacion": "La respuesta es la B. La expresión gráfico plástica genuina en el nivel inicial parte de la evocación de experiencias significativas (compartir experiencias agradables) y la libre elección de materiales para representar sus vivencias, no de colorear plantillas ni hacer inventarios."
+    },
+    {
+        "id": 13,
+        "nivel": "Inicial",
+        "area": "Lectoescritura",
+        "origen": "Examen Ascenso 2021 (Pregunta 13)",
+        "casuistica": "Los niños... se están registrando en el cartel de responsabilidades usando tarjetas con sus nombres. En el aula están matriculados Manuel y Manuela, y, cuando le toca registrarse a Manuel, este coge la tarjeta de Manuela y rápidamente la coloca en el cartel. Al percatarse, la docente interviene. ¿Qué acción es más pertinente que realice la docente para continuar favoreciendo la apropiación del sistema de escritura en Manuel?",
+        "opciones": [
+            "A) Pedir a Manuel que le muestre la tarjeta... y preguntarle por qué piensa que es su tarjeta, cómo termina su nombre y cómo termina el nombre escrito en la tarjeta que eligió. Luego, comparar las dos tarjetas con los nombres 'MANUEL' y 'MANUELA'...",
+            "B) Indicar a Manuel que la tarjeta que colocó en el cartel dice 'MANUELA' y no 'MANUEL', y entregarle la tarjeta con su nombre. Luego, decirle que la observe para que recuerde su nombre...",
+            "C) Presentar a Manuel una hoja de papel donde estén escritos 'M_NUEL' y 'M_NUEL_'. Luego, explicarle que allí están escritos los nombres Manuel y Manuela, pero incompletos..."
+        ],
+        "correcta": 0,
+        "explicacion": "La respuesta es la A. Ante un 'error', el enfoque constructivista demanda generar un conflicto cognitivo. Al pedirle que compare ambas tarjetas y analice los finales de los nombres, el niño reflexiona sobre el sistema de escritura por sí mismo."
+    },
+    {
+        "id": 14,
+        "nivel": "Inicial",
+        "area": "Comprensión Lectora",
+        "origen": "Examen Ascenso 2021 (Pregunta 14)",
+        "casuistica": "La docente del aula de cinco años ha colocado recientemente un libro de poesía en la biblioteca. Hoy dos niños han cogido ese libro... y le han pedido a la docente que se los lea. Al notar los otros niños esto, varios se acercan a escuchar... ¿Cuál de las siguientes acciones es más pertinente para seguir acercando a los niños a este tipo de texto?",
+        "opciones": [
+            "A) Leer el poema mientras todos escuchan con atención. Luego, invitarlos a compartir sus comentarios sobre lo que sintieron al escuchar el poema. Finalmente, pedirles que digan cómo se imaginan a la semillita, a la lluvia y al sol.",
+            "B) Explicar a los niños que los poemas suelen tener palabras que suenan parecido. Luego, leerles el poema enfatizando palabras como 'alumbró'... Finalmente, preguntarles qué palabras parecidas identificaron.",
+            "C) Leerles el poema acompañando la lectura con movimientos corporales. Luego... practicar con ellos cada verso hasta que logren recitar todo el poema por sí solos."
+        ],
+        "correcta": 0,
+        "explicacion": "La respuesta es la A. El propósito principal de acercar a los niños a textos poéticos en esta edad es el disfrute (goce estético) y la expresión de emociones e imaginación, no el análisis fonológico estricto ni la memorización mecánica."
+    },
+    {
+        "id": 15,
+        "nivel": "Inicial",
+        "area": "Lectoescritura",
+        "origen": "Examen Ascenso 2021 (Pregunta 15)",
+        "casuistica": "La docente y los niños del aula de cinco años acaban de leer el cuento 'El gato y la mariposa'. Ahora, la docente les pide que dibujen lo que más les gustó. Naomi dibuja un gato y una mariposa, y escribe debajo de cada personaje. Cuando la docente le pregunta qué escribió, la niña afirma haber escrito 'gato' debajo de su primer dibujo y 'mariposa' debajo del segundo. La niña escribió 'gato' usando muchas letras y 'mariposa' usando solo tres letras. Considerando las propuestas de Emilia Ferreiro y Ana Teberosky, ¿qué hipótesis de escritura explica por qué Naomi escribe la palabra 'gato' con más grafías que la palabra 'mariposa'?",
+        "opciones": [
+            "A) Hipótesis de cantidad.",
+            "B) Hipótesis de variedad.",
+            "C) Hipótesis sobre las propiedades del objeto."
+        ],
+        "correcta": 2,
+        "explicacion": "La respuesta es la C. La 'hipótesis sobre las propiedades del objeto' (o del tamaño del referente) ocurre cuando el niño cree que las características físicas del objeto real deben reflejarse en la escritura. Como un gato real es mucho más grande que una mariposa real, asume que la palabra 'gato' necesita más letras para escribirse."
+    }
+]
