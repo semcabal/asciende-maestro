@@ -356,3 +356,100 @@ footer {
         margin-top: 20px;
     }
 }
+
+/* ==========================================================================
+   8. SECCIÓN DE CONTACTO
+   ========================================================================== */
+.contacto-seccion {
+    background: linear-gradient(135deg, #ffffff 0%, #f9f9f9 100%);
+    padding: 80px 5%;
+    text-align: center;
+    min-height: calc(100vh - 140px); /* Asegura que ocupe casi toda la pantalla para que no flote el footer */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedor-contacto {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.subtitulo-contacto {
+    color: #d91414; /* Rojo Perú */
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.contacto-seccion h1 {
+    font-size: 2.5rem;
+    color: #1a1a1a;
+    margin-bottom: 20px;
+    font-weight: 800;
+}
+
+.descripcion-contacto {
+    font-size: 1.1rem;
+    color: #555555;
+    margin-bottom: 40px;
+    line-height: 1.6;
+}
+
+/* Tarjeta elegante para el correo */
+.tarjeta-correo {
+    background-color: #ffffff;
+    padding: 40px 30px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    border-top: 4px solid #d91414; /* Detalle de la bandera */
+    transition: transform 0.3s ease;
+}
+
+.tarjeta-correo:hover {
+    transform: translateY(-5px);
+}
+
+.icono-correo {
+    font-size: 3rem;
+    margin-bottom: 15px;
+}
+
+.tarjeta-correo h3 {
+    font-size: 1.3rem;
+    color: #222222;
+    margin-bottom: 10px;
+}
+
+.enlace-correo {
+    font-size: 1.5rem;
+    color: #d91414;
+    text-decoration: none;
+    font-weight: 700;
+    word-break: break-all; /* Evita que el correo se corte en pantallas pequeñas */
+    transition: color 0.3s ease;
+}
+
+.enlace-correo:hover {
+    color: #b00f0f;
+    text-decoration: underline;
+}
+
+.horario-atencion {
+    font-size: 0.9rem;
+    color: #777777;
+    margin-top: 15px;
+}
+
+/* Ajuste responsivo para celulares */
+@media (max-width: 480px) {
+    .contacto-seccion h1 {
+        font-size: 1.9rem;
+    }
+    .enlace-correo {
+        font-size: 1.2rem;
+    }
+}
